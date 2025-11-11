@@ -1,0 +1,16 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "this is my json file in class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
